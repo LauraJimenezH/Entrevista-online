@@ -79,4 +79,19 @@ Esto evita que ella se traslade a la sede de Laboratoria y aproveche mejor su ti
 Por otro lado, Alejandra es training manager de Laboratoria Lima y junto a su equipo se dedica a entrevistar a todas las postulantes al bootcamp.
 Afortunadamente ahora existe el método de entrevistas online, lo cual le permitirá revisar el video de todas las entrevistadas desde cualquier lugar y en cualquier momento. Además de comentar algunas observaciones en el video.
 Para ambas partes las entrevistas online son una opción muy cómoda debido a que no deben movilizarse ni asignar un horario determinado a realizarla.
+### PROTOYPING
+#### Situación actual
+Actualmente el MPV posee las siguientes características:
+![user person](assets/images/actual1.PNG "userperson1")
+No indica en que parte se encuentra el error en caso de que no permita loguearse, no permite indicar de forma correcta la sede a la que esta postulando 
+![user person](assets/images/actual2.PNG "userperson1")
+Las indicaciones no eran comprensibles por los usuarios , pues no quedaba claro la cantidad de tiempo que tenia para leer la pregunta y para contestarla 
+![user person](assets/images/actual3.PNG "userperson1")
+Poseía el botón “Cerrar Sesión”, que se considera innecesario porque la plataforma solo es para la entrevista online y no habría motivo para que inicie sesión nuevamente
+![user person](assets/images/actual4.PNG "userperson1")
+Entrevista online para grabar es necesario que pulse el botón “Record a video”
+![user person](assets/images/actual5.PNG "userperson1")
+Para enviar el video se debe presionar “Stop” y lo enviará automáticamente
+![user person](assets/images/actual6.PNG "userperson1")
+Al terminar nos muestra un mensaje de agradecimiento y un botón para conocer más de Laboratoria.
 
