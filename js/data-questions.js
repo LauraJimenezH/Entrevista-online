@@ -148,6 +148,9 @@ function nextQuestion() {
         title.textContent = 'Pregunta ' + (centinel);
         window.location.href = 'finish.html';
       })
+      localStorage.setItem('estado', 'true');
+  }else{
+    localStorage.setItem('estado', 'false');
   }
 }
 
