@@ -80,8 +80,8 @@ Por otro lado, Alejandra es training manager de Laboratoria Lima y junto a su eq
 Afortunadamente ahora existe el método de entrevistas online, lo cual le permitirá revisar el video de todas las entrevistadas desde cualquier lugar y en cualquier momento. Además de comentar algunas observaciones en el video.
 Para ambas partes las entrevistas online son una opción muy cómoda debido a que no deben movilizarse ni asignar un horario determinado a realizarla.
 ### PROTOYPING
-#### Situación actual
-Actualmente el MPV posee las siguientes características:
+Se encuentra en el siguiente link : https://team-laboratoria.github.io/Entrevista-online/views/welcome.html
+-	Actualmente el MPV posee las siguientes características:
 ![user person](assets/images/actual1.PNG "userperson1")
 No indica en que parte se encuentra el error en caso de que no permita loguearse, no permite indicar de forma correcta la sede a la que esta postulando 
 ![user person](assets/images/actual2.PNG "userperson1")
@@ -94,4 +94,13 @@ Entrevista online para grabar es necesario que pulse el botón “Record a video
 Para enviar el video se debe presionar “Stop” y lo enviará automáticamente
 ![user person](assets/images/actual6.PNG "userperson1")
 Al terminar nos muestra un mensaje de agradecimiento y un botón para conocer más de Laboratoria.
+ #### Modulo del postulante
+-	La primera versión de nuestro prototipo es la siguiente: https://marvelapp.com/5030i4j
+
+
+
+#### Modulo del training manager
+-	La primera versión de nuestro prototipo es la siguiente:
+https://marvelapp.com/6542cd1/screen/40317684
+
 
