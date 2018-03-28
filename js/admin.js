@@ -25,7 +25,7 @@ $(document).ready(function () {
     // }
 
     // if (snap.val()['estado'] = false) {
-    //   $('.card-completas').append('<p class="card-text">' + snap.val()['email'] + '</p>')
+    //   $('.card-incompletas').append('<p class="card-text">' + snap.val()['email'] + '</p>')
     // } 
     
   });
