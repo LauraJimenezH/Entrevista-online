@@ -56,3 +56,21 @@ Esta plataforma es creada para ayudar al equipo de Laboratoria y a la training M
 **¿Cómo podríamos**  brindarle toda la información del proceso de entrevistas de una manera sencilla y eficiente?
 
 **¿Cómo podríamos**  lograr que sea visible la cantidad  de postulantes que son aptas o no para la etapa de entrevistas?
+
+### IDEACIÓN 
+#### Feature List
+#### Modulo del postulante
+-	Registro y login con correo electrónico, Facebook y Gmail.
+-	Selección de 8 preguntas de forma aleatoria.
+-	Grabación de audio y video de cada respuesta de la postulante 
+-	Almacenamiento de las entrevistas completas e incompletas
+
+#### Modulo del training manager
+-	Dashboard de visualización de las cantidades de postulantes aptas para entrevista, con entrevistas incompleta y completas.
+-	Visualización de la lista de postulantes aptas para entrevistas.
+-	Visualización de la lista de postulantes con entrevistas incompletas con opción a comentar y reproducir el video.
+-	Visualización de la lista de postulantes con entrevistas completas con opción a comentar, reproducir el video e indicar si paso a la siguiente etapa.
+
+#### Storytelling
+Isabel  es una postulante que planea ingresar a Laboratoria, es la primera ves que postula y esta motivada por lograr ser una UX Designer capacitada para empezar su carrera en el mundo tech.
+Ha completado exitosamente el trabajo con mucho esfuerzo y le han enviado un correo con un link para realizar la entrevista online.
