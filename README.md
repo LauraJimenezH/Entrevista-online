@@ -80,8 +80,9 @@ Por otro lado, Alejandra es training manager de Laboratoria Lima y junto a su eq
 Afortunadamente ahora existe el método de entrevistas online, lo cual le permitirá revisar el video de todas las entrevistadas desde cualquier lugar y en cualquier momento. Además de comentar algunas observaciones en el video.
 Para ambas partes las entrevistas online son una opción muy cómoda debido a que no deben movilizarse ni asignar un horario determinado a realizarla.
 ### PROTOYPING
+#### Situación actual
 Se encuentra en el siguiente link : https://team-laboratoria.github.io/Entrevista-online/views/welcome.html
--	Actualmente el MPV posee las siguientes características:
+-	Actualmente el MVP posee las siguientes características:
 ![user person](assets/images/actual1.PNG "userperson1")
 No indica en que parte se encuentra el error en caso de que no permita loguearse, no permite indicar de forma correcta la sede a la que esta postulando 
 ![user person](assets/images/actual2.PNG "userperson1")
@@ -89,18 +90,44 @@ Las indicaciones no eran comprensibles por los usuarios , pues no quedaba claro 
 ![user person](assets/images/actual3.PNG "userperson1")
 Poseía el botón “Cerrar Sesión”, que se considera innecesario porque la plataforma solo es para la entrevista online y no habría motivo para que inicie sesión nuevamente
 ![user person](assets/images/actual4.PNG "userperson1")
-Entrevista online para grabar es necesario que pulse el botón “Record a video”
+Para grabar la entrevista  es necesario que pulse el botón “Record a video”
 ![user person](assets/images/actual5.PNG "userperson1")
 Para enviar el video se debe presionar “Stop” y lo enviará automáticamente
 ![user person](assets/images/actual6.PNG "userperson1")
 Al terminar nos muestra un mensaje de agradecimiento y un botón para conocer más de Laboratoria.
  #### Modulo del postulante
 -	La primera versión de nuestro prototipo es la siguiente: https://marvelapp.com/5030i4j
+-	Luego de realizar el testing (https://www.youtube.com/watch?v=TWsO--qDl4g) obtuvimos el siguiente feedback 
+
+1.	 Confusion de la barra de progreso con el tiempo para leer la pregunta
+2.	Le parecio necesario un botón para que en el caso que lea la pregunta antes del tiempo dado (15 segundos) pueda grabar.
+3.	No fue clara la imagen del timer con el tiempo restante.
+4.	Respecto a las indicaciones al principio no quedaban claras en cuanto al tiempo disponible para leer la pregunta y para contestarla.
+5.	Confusion en la barra de progreso debe indicar la cantidad de preguntas que van hasta el momento.
+
+-	La segunda versión de nuestro prototipo es la siguiente: https://marvelapp.com/872652e/screen/40358512
+-	Caracteristicas finales 
+1.	Permite logueo con Facebook y google 
+2.	Las indicaciones están más claras, puesto que especifica la cantidad de tiempo para leer la pregunta y para contestarla.
+3.	Se añadió un mensaje de advertencia para que tenga conectado el micro y la cámara de la  PC.
+4.	Se incluyó un botón en caso termine de leer la pregunta en menos tiempo.
+5.	Se eliminó el botón “Cerrar Sesión” pues indicaron los usuarios que era innecesario ya que solo se debe loguear para realizar la entrevista.
 
 
 
 #### Modulo del training manager
 -	La primera versión de nuestro prototipo es la siguiente:
 https://marvelapp.com/6542cd1/screen/40317684
+-	Luego de realizar el testing (https://www.youtube.com/watch?v=5R9WndTGI74) obtuvimos el siguiente feedback 
+
+1.	 Confusión en los títulos pues no indican que proceso de selección es ni la sede.
+2.	Que permita marcar que el video ya fue visualizado 
+3.	Me dé opciones de añadir comentarios a los videos.
+4.	Es muy cómodo que se visualice el video y la lista de preguntas de cada postulante.
+
+-	La segunda versión de nuestro prototipo es la siguiente: https://marvelapp.com/3bcc52a/screen/40377555
+-	Caracteristicas finales :
+1.	Se incluyo botones que permitan visualizar la lista de postulantes aptas para entrevista, entrevistas incompletas y completas.
+2.	Permite visualizar los videos de aquellas postulantes que poseen videos de entrevista.
 
 
