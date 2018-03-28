@@ -98,6 +98,7 @@ function observer() {
   firebase.auth().onAuthStateChanged(function (user) {
     // si el usuario esta activo
     if (user) {
+      localStorage.setItem('uid', user.uid);
       localStorage.setItem('name', $('#name').val()||user.displayName);
       localStorage.setItem('sede', $('#sede').val());
       window.location.href = 'views/welcome.html';

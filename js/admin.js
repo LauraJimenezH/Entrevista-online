@@ -14,12 +14,12 @@ $('.registradas').click(function () {
     window.location.href = '../views/registradas.html';
 })
 
-    var users = firebase.database().ref('users/');
-    users.on('value', function (snapshot) {
-        console.log(snapshot.val());
-    });
+var UID = window.localStorage.getItem('uid');
 
+// Leyendo los datos del usuario
+firebase.database().ref('users/' + UID).on('value', function(snap) {
+  
+$('.card-registradas').append('<p class="card-text">'+snap.val()['email']+'</p>')
+});
 
-
-// $('.card-registradas').append('<p class="card-text">''</p>')
 })
