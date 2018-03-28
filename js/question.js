@@ -25,6 +25,7 @@ $(document).ready(function () {
       var userCode = user.uid;
       var sede = localStorage.getItem('sede');
       var name = localStorage.getItem('name');
+      var estado = localStorage.getItem('estado');
       // haciendo referencia al espacio exclusivo creado para el usuario en la basedatos
      
       
@@ -39,6 +40,8 @@ $(document).ready(function () {
       firebasePostREsfName.set(name);
       var firebasePostREsfSede = userRef.child('sede');
       firebasePostREsfSede.set(sede);
+      var firebasePostREsfSede = userRef.child('estado');
+      firebasePostREsfSede.set(estado);
       // mostrando los datos del usuario
       // userRef.on('value', function(datasnapshot) {
       //   var showingName = datasnapshot.child('name').val();
