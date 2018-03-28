@@ -72,5 +72,11 @@ Esta plataforma es creada para ayudar al equipo de Laboratoria y a la training M
 -	Visualización de la lista de postulantes con entrevistas completas con opción a comentar, reproducir el video e indicar si paso a la siguiente etapa.
 
 #### Storytelling
-Isabel  es una postulante que planea ingresar a Laboratoria, es la primera ves que postula y esta motivada por lograr ser una UX Designer capacitada para empezar su carrera en el mundo tech.
+Angélica   es una postulante que planea ingresar a Laboratoria, es la primera vez que postula y está motivada por lograr ser una UX Designer capacitada para empezar su carrera en el mundo tech.
 Ha completado exitosamente el trabajo con mucho esfuerzo y le han enviado un correo con un link para realizar la entrevista online.
+Está ansiosa por las preguntas que le realizarán sin embargo ha leído las recomendaciones atentamente y contestará desde la comodidad de su casa. 
+Esto evita que ella se traslade a la sede de Laboratoria y aproveche mejor su tiempo en seguir practicando para lograr ingresar a Laboratoria.
+Por otro lado, Alejandra es training manager de Laboratoria Lima y junto a su equipo se dedica a entrevistar a todas las postulantes al bootcamp.
+Afortunadamente ahora existe el método de entrevistas online, lo cual le permitirá revisar el video de todas las entrevistadas desde cualquier lugar y en cualquier momento. Además de comentar algunas observaciones en el video.
+Para ambas partes las entrevistas online son una opción muy cómoda debido a que no deben movilizarse ni asignar un horario determinado a realizarla.
+
