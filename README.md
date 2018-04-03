@@ -3,6 +3,8 @@ Plataforma para realizar entrevistas online diseñado  para Laboratoria .
 
 ![Resultado](http://i66.tinypic.com/11lr0c7.png)
 
+## Desarrollado para [Laboratoria](http://laboratoria.la)
+
 ### CONTEXTO
 Esta plataforma es creada para ayudar al equipo de Laboratoria y a la training Manager  a gestionar el manejo del proceso de entrevistas a las postulantes, actualmente  las entrevistas  se realizan  personalmente con las psicólogas , para mejorar  este proceso creamos  esta plataforma  , donde las entrevistas a las postulantes podrán realizarse de manera online  (audio y video) ,facilitando  a la vez el manejo de la información .
 
